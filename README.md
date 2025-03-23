@@ -1,4 +1,4 @@
-# Weather Application - Node-RED
+# Real Time Weather Monitoring Application - Node-RED
 
 ## Project Overview
 This project is a Node-RED-based weather application that retrieves weather data from OpenWeather API based on user-provided locations. The application features a dashboard with multiple tabs, allowing users to view real-time weather updates, set warning limits, and visualize historical data with charts.
