@@ -40,7 +40,9 @@ This project is a Node-RED-based weather application that retrieves weather data
 - Receive alerts when parameters exceed the defined limits.
 
 ## Demo Video & Screenshots
-[Upload your demo video to GitHub and place the link here]
+https://github.com/user-attachments/assets/8b6d3127-2d11-4e9e-8fc8-8d4cc1a4a3f1
+
+
 
 ### Screenshots
 ![WeatherTab](https://github.com/user-attachments/assets/3e22530c-10f0-4e80-a4b3-efe436d62067)
