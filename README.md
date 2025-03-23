@@ -32,6 +32,10 @@ This project is a Node-RED-based weather application that retrieves weather data
 6. Import the provided `.json` file into Node-RED via the import feature.
 7. Deploy and start using the application.
 
+
+## Demo Video & Screenshots
+https://github.com/user-attachments/assets/8b6d3127-2d11-4e9e-8fc8-8d4cc1a4a3f1
+
 ## Usage
 - Open the dashboard in a web browser.
 - Enter location details and submit.
@@ -39,24 +43,14 @@ This project is a Node-RED-based weather application that retrieves weather data
 - Monitor real-time and past hour weather conditions.
 - Receive alerts when parameters exceed the defined limits.
 
-## Demo Video & Screenshots
-https://github.com/user-attachments/assets/8b6d3127-2d11-4e9e-8fc8-8d4cc1a4a3f1
 
-
-
-### Screenshots
+### Here I have Attached Some  Screenshots
 ![WeatherTab](https://github.com/user-attachments/assets/3e22530c-10f0-4e80-a4b3-efe436d62067)
 ![SettingTab](https://github.com/user-attachments/assets/de5685b9-e548-42f3-81a7-000dc56737df)
 ![ChartsTab](https://github.com/user-attachments/assets/8e7e8122-2799-4a7c-be7e-beb428ebdb16)
 ![Notification](https://github.com/user-attachments/assets/56685791-375f-448f-92e0-1d1ed71ae665)
 
 
-
-
-
-
-## License
-This project is open-source and available under the MIT License.
 
 ---
 
